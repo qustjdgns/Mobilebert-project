@@ -87,7 +87,6 @@
 - 예측 정확도 : 0.917
   
   <br>
-  
 ![Figure_18888888](https://github.com/user-attachments/assets/d0d2430b-2a3b-4288-89f7-40ff58e6e86d)
 
 
