@@ -67,7 +67,7 @@
 
 ## 4. MobileBERT Finetuning 결과
 
-**training loss 그래프**
+**training loss & Train Accuracy 그래프**
 
 ![Figure_11111111](https://github.com/user-attachments/assets/3efcd6a7-aabb-4352-a2bc-7fe2cf2cf5ac)
 
