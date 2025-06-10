@@ -62,24 +62,17 @@
 
 **training loss 그래프**
 
-![Training Loss](https://github.com/user-attachments/assets/155e0aef-09b3-4ca8-88ef-d8b4f226691a)
+
 
 **training accuracy & validation accuracy (x축 epoch)**
 
-![Training Accuracy & Validation Accuracy](https://github.com/user-attachments/assets/b0026eb5-158e-44cd-892d-5265449c2f4e)
-그래프 소수잘보이게 수정, 그래프 로스랑 validation 합치기
 
-![Validation Accuracy](https://github.com/user-attachments/assets/b736a623-e1d0-44cc-917f-c3061a5fa4cc)
 
-- 그래프를 보았을 때 각각의 EPOCH 별 training loss는 감소하고,training accuracy & validation accuracy 수치는 점점 증가함을 보인다. 
-- 이는 모델이 해당 데이터를 잘 학습했다는 증거이며,학습 후 비교데이터(약 57,718건)을을 이용한 문장 분류 예측 결과의 정확도 또한 높을 것으로 예상한다.
+
 
 **문장 분류 예측 결과**
   
-![Inference 결과](https://github.com/user-attachments/assets/b0b63121-9188-4b68-b29d-4061ab658709)
 
--  데이터를 이용한 문장 분류 예측 결과는 정확도 약 91% 매우 높은 수치를 보이며, 모델의 문장 분류 예측 성능이 우수하다.
--  검증데이터의 긍정 예측 비율 또한 전체 데이터의 긍정 부정 분포와 유사한 비율을 보이고 있다.
 
 
 
@@ -94,7 +87,7 @@
 ![2024년 4월 이후 평점 급감](https://github.com/user-attachments/assets/5cfbed12-ff41-4b97-bde2-b97a70da748a)
 
 
-2024년 4월 이후 평균 평점이 급격히 하락. 이는 특정 업데이트 이후 사용자 불만이 증가했음을 시사 
+2024년 4월 이후 평균 평점이 급격히 하락. 이는 특정 업데이트 이후 사용자 불만이 증가했음을 시사 <br>
 -> 2024년 4월 이후 평점이 눈에 띄게 하락했으며, 해당 시점의 업데이트가 부정적 영향을 미쳤을 가능성이 높음.
 
 
@@ -103,7 +96,7 @@
 ![특정 버전 리뷰 급증 확인](https://github.com/user-attachments/assets/f077cdf6-9696-4176-a86c-13735a873745)
 
 
-8.9.36.616 버전에서 리뷰 수가 폭발적으로 증가, 해당 버전에서 기능 이슈나 불편 사항이 다수 제기된 것으로 추정
+8.9.36.616 버전에서 리뷰 수가 폭발적으로 증가, 해당 버전에서 기능 이슈나 불편 사항이 다수 제기된 것으로 추정<br>
 ->버전 8.9.36.616은 리뷰 수가 급증한 이례적인 현상이 나타났으며, 사용자 불만이 집중된 버전으로 분석됨.
 
 **최근 버전별 긍/부정 비율 (누적 막대그래프)**
@@ -111,7 +104,7 @@
 ![최근 버전별 긍/부정 비율](https://github.com/user-attachments/assets/a1482b89-8002-4e75-b063-b2a2e57ee180)
 
 
-최신 버전들 중 일부는 부정 리뷰 비율이 60% 이상. 단순 리뷰 수가 아니라 사용자 만족도가 크게 하락한 버전이 확인됨
+최신 버전들 중 일부는 부정 리뷰 비율이 60% 이상. 단순 리뷰 수가 아니라 사용자 만족도가 크게 하락한 버전이 확인됨<br>
 -> 최근 버전 중 일부는 부정 리뷰가 전체의 60% 이상을 차지하고 있어, 단순한 리뷰 수보다 사용자 만족도 저하가 더 문제로 드러남.
 
 
