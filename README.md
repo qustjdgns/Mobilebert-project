@@ -143,7 +143,7 @@
 | **팟캐스트 통합 불만** | 팟캐스트가 음악 피드에 강제로 통합되고, 전용 "새 에피소드" 폴더가 제거됨. | 음악 청취 경험 방해, 앱이 "복잡한 하이브리드"가 된다는 불만, 팟캐스트 관리 어려움. | 
 | **개인 정보 보호 정책 우려** | 데이터 수집 범위, 제3자 공유, 추적 방식에 대한 사용자들의 지속적인 우려. | 개인 정보 침해에 대한 불안감, 사용자 신뢰 저하. | 
 
-## 참고 링크 (Spotify 관련 비판 및 논란)
+
 
 - [Criticism of Spotify - Wikipedia](https://en.wikipedia.org/wiki/Criticism_of_Spotify)
 - [Drake promotion on Spotify goes too far, users demand refunds - Karen Civil](https://karencivil.com/2018/07/03/spotify-subscribers-are-demanding-refunds-over-too-much-drake-promotion)
