@@ -114,40 +114,44 @@
 
 **토픽 모델링**
 
-**(2018년 3분기 ~ 2019년 2분기): 이 구간에는 부정 리뷰가 60% 이상으로 급증하는 현상, (2024년 1분기 ~ 2024년 2분기): 이 구간에는 부정 리뷰가 60% 이하로 대폭 감소하는 긍정적인 변화를 토픽 모델링을 이용하여 확인 후, 인사이트 도출을 통한 피드백은 이미 2025-06 ver에 적용되어 있는지 확인 할 예정이다**
+**(2018년 3분기 ~ 2019년 2분기)**
 
 <br>
 
-![zmffkdnem](https://github.com/user-attachments/assets/ad4779b3-0aee-40ca-a2e7-dafe6c036519)
-
-| 분류           | 주요 이슈 키워드                                         | 사용자 불만 요약                                 |
-|----------------|----------------------------------------------------------|--------------------------------------------------|
-| 음악 재생       | play, playlist, shuffle, skip, listen                    | 원하는 방식으로 음악을 재생하지 못함            |
-| 앱 오류         | stop, fix, bug, update                                   | 앱이 멈추거나 오류가 잦음                        |
-| 광고            | ad, free, pay, service                                   | 광고가 너무 많거나 프리미엄 유도 강함           |
-| 오프라인 문제    | offline, downloaded, internet, connection               | 오프라인에서도 음악이 제대로 재생되지 않음      |
-| 업데이트/기능   | premium, update, cant, even, without                    | 기능 제한, 업데이트로 인한 혼란                 |
-| 계정 문제       | account, login, password, cancel, support               | 로그인, 비밀번호, 계정 관리 문제                |
-
-**토픽 모델링을 통해 알아낸 서비스에 대한 불만을 개선하기 위해 실현 가능한 개선점을 마련.** 전문가의 의견 달기
-
-**개선 방안**
-
-음악 재생 유연성 강화  
-- 무료 사용자도 최소한의 트랙 선택 및 순서 재생 허용  
-- 사용자 맞춤형 플레이리스트 추천 및 순서 제어 기능 추가
-
-앱 안정성 향상  
-- 긴급 패치 주기 단축  
-- OS 호환성 테스트 강화  
-- 사용자 피드백 기반 QA 자동화
-
-광고 정책 개선  
-- 광고 간격 조절 (예: 3곡당 1광고)  
-- 스킵 가능한 광고 도입  
-- 개인화 광고 적용
+![image](https://github.com/user-attachments/assets/3e81aa90-2b48-4a8e-95b3-30792751008e)
 
 
+premium, ad, paying: 유료 사용자 경험 불만
+
+Spotify, app, update, version: 앱 및 서비스 자체 문제
+
+song, play, playlist, shuffle: 음악 재생 기능 문제
+
+screen, phone, time: 디바이스 및 사용 경험 문제
+
+<br>
+**(2024년 1분기 ~ 2024년 2분기)**
+
+<br>
+
+![image](https://github.com/user-attachments/assets/3c3ca461-92f1-4d64-96b6-12d7f68ecbf6)
+
+
+music, app, Spotify, sound, streaming : 서비스에 대한 전반적인 만족
+
+premium, ad, free, pay, version, skip : 유료 서비스에 대한 긍정적 평가 또는 개선 기대
+
+
+song, playlist, play, shuffle, add, artist : 음악 기능의 유용성과 즐거움
+
+listen, like, love, hear, experience : 감성적 만족과 애정 표현
+
+
+good, best, great, excellent, awesome, quality : 전반적인 품질과 서비스에 대한 긍정 평가
+
+use, easy, update, feature, platform : 사용 편의성과 기능적 장점
+
+[요금제 무료 선언](요금제 무료)(https://www.dbpia.co.kr/pdf/pdfAiChatView.do?nodeId=NODE11962436)
 
 ## 6. 마무리
 
