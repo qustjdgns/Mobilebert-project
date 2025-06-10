@@ -105,7 +105,7 @@
 - 급증 또는 감소 하는 구간을 찾아본 결과, 가장 눈에 띄는 두 시기는 다음과 같음
 - (2018년 3분기 ~ 2019년 2분기): 이 구간에는 부정 리뷰가 60% 이상으로 급증하는 현상이 나타남 
 - (2024년 1분기 ~ 2024년 2분기): 이 구간에는 부정 리뷰가 60% 이하로 대폭 감소하는 긍정적인 변화를 보였음
-- 두 구간에 업데이트된 버전을 이용하여 토픽모델링을 한다면,부정 리뷰가 급증하는 현상 또는 부정 리뷰가 60% 감소하는 현상의 원인을 알 수 있음
+- 두 구간 기간을 기준을 토픽모델링을 한다면,부정 리뷰가 급증하는 현상 또는 부정 리뷰가 감소하는 현상의 원인을 알 수 있음
 
 
 
@@ -121,6 +121,8 @@
 ![image](https://github.com/user-attachments/assets/3e81aa90-2b48-4a8e-95b3-30792751008e)
 
 
+**부정적인 리뷰가 급증한 이유**
+
 premium, ad, paying: 유료 사용자 경험 불만
 
 Spotify, app, update, version: 앱 및 서비스 자체 문제
@@ -131,12 +133,19 @@ screen, phone, time: 디바이스 및 사용 경험 문제
 
 <br>
 
+**사용자가 불만인 이유**
+
+
+
+<br>
+
 **(2024년 1분기 ~ 2024년 2분기)**
 
 <br>
 
 ![image](https://github.com/user-attachments/assets/3c3ca461-92f1-4d64-96b6-12d7f68ecbf6)
 
+**긍정적인 리뷰가 급증한 이유**
 
 music, app, Spotify, sound, streaming : 서비스에 대한 전반적인 만족
 
@@ -155,15 +164,8 @@ use, easy, update, feature, platform : 사용 편의성과 기능적 장점
 
 **현재 개선된 부분**
 
-[요금제 무료 선언](요금제무료)(https://www.dbpia.co.kr/pdf/pdfAiChatView.do?nodeId=NODE11962436)
 
-<br>
 
-[서비스 구매 편의성 제공](서비스구매편의성제공)https://newsroom.spotify.com/2025-05-01/following-landmark-court-ruling-spotify-submits-new-app-update-to-apple-to-benefit-u-s-consumers/
-
-<br>
-
-[수수료 감면](수수료감면)https://www.ainvest.com/news/spotify-app-update-victory-turning-point-streaming-dominance-2505/
 
 
 ## 6. 마무리
