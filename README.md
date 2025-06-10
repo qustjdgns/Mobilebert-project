@@ -159,7 +159,11 @@ use, easy, update, feature, platform : 사용 편의성과 기능적 장점
 
 <br>
 
-[서비스 구매 편의성 제공](편의성)https://newsroom.spotify.com/2025-05-01/following-landmark-court-ruling-spotify-submits-new-app-update-to-apple-to-benefit-u-s-consumers/
+[서비스 구매 편의성 제공](서비스구매편의성제공)https://newsroom.spotify.com/2025-05-01/following-landmark-court-ruling-spotify-submits-new-app-update-to-apple-to-benefit-u-s-consumers/
+
+<br>
+
+[수수료 감면](수수료감면)https://www.ainvest.com/news/spotify-app-update-victory-turning-point-streaming-dominance-2505/
 
 
 ## 6. 마무리
