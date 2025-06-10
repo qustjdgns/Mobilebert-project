@@ -133,19 +133,22 @@
 
 **부정적인 리뷰가 급증한 이유**
 
-premium, ad, paying: 유료 사용자 경험 불만
+| 문제/논란 | 설명 | 사용자에게 미친 영향 | 관련 자료 ID |
+|------------|------|------------------------|----------------|
+| **2019년 4월 서비스 중단** | 전 세계적인 대규모 서비스 중단으로 2만 명 이상 사용자에게 영향. | 음악 스트리밍 및 다운로드 불가, 소셜 미디어에서 불만 폭주, 사용자 신뢰 저하, 플랫폼 전환 고려. | 25 |
+| **"스콜피온 SZN" 프로모션** | 드레이크 앨범 홍보를 위해 관련 없는 플레이리스트 커버까지 드레이크 이미지로 도배. | 프리미엄 사용자의 광고 없는 경험 침해에 대한 불만, 일부 사용자 환불 요청, 브랜드 신뢰 훼손. | 1 |
+| **"가짜 아티스트" 의혹** | 스포티파이가 로열티 절감을 위해 자체 큐레이션 플레이리스트에 스톡 음악 기반의 "가짜 아티스트"를 홍보했다는 의혹. | 아티스트 보상 및 플랫폼 무결성 훼손에 대한 우려, 사용자 신뢰 저하, 진정한 음악 발견 방해. | 2 |
+| **"페이-포-플레이" 관행** | 레이블이 특정 곡을 인기 플레이리스트에 배치하기 위해 스포티파이에 돈을 지불했다는 의혹. | 음악 발견의 공정성 및 아티스트 보상에 대한 우려. | 3 |
+| **2018년 5월 앱 업데이트** | 아티스트 스토리, 유사 아티스트 페이지, 친구 활동 확인, 장르/라디오 탐색 등 기존 기능 제거. 새로운 UI는 "끔찍하고 복잡하다"는 평가. | 사용자 경험 저하, 앱이 "껍데기" 같다는 불만, 소셜 기능 상실, 다른 플랫폼으로의 전환 고려. | 4 |
+| **팟캐스트 통합 불만** | 팟캐스트가 음악 피드에 강제로 통합되고, 전용 "새 에피소드" 폴더가 제거됨. | 음악 청취 경험 방해, 앱이 "복잡한 하이브리드"가 된다는 불만, 팟캐스트 관리 어려움. | 5 |
+| **개인 정보 보호 정책 우려** | 데이터 수집 범위, 제3자 공유, 추적 방식에 대한 사용자들의 지속적인 우려. | 개인 정보 침해에 대한 불안감, 사용자 신뢰 저하. | 6 |
 
-Spotify, app, update, version: 앱 및 서비스 자체 문제
+## 참고 링크 (Spotify 관련 비판 및 논란)
 
-song, play, playlist, shuffle: 음악 재생 기능 문제
-
-screen, phone, time: 디바이스 및 사용 경험 문제
-
-<br>
-
-**사용자가 불만인 이유**
-
-
+- [Criticism of Spotify - Wikipedia](https://en.wikipedia.org/wiki/Criticism_of_Spotify)
+- [Drake promotion on Spotify goes too far, users demand refunds - Karen Civil](https://karencivil.com/2018/07/03/spotify-subscribers-are-demanding-refunds-over-too-much-drake-promotion)
+- [Users Demand Refund From Spotify After Heavy-Handed Drake Promotion - Okayplayer](https://okayplayer.com/music/drake-scorpion-spotify-takeover.html)
+- [Controversy over fake artists on Spotify - Wikipedia](https://en.wikipedia.org/wiki/Controversy_over_fake_artists_on_Spotify)
 
 <br>
 
@@ -157,35 +160,26 @@ screen, phone, time: 디바이스 및 사용 경험 문제
 
 **긍정적인 리뷰가 급증한 이유**
 
-music, app, Spotify, sound, streaming : 서비스에 대한 전반적인 만족
+| 기능 명칭 | 설명 | 의도된 사용자 혜택 | 관련 자료 ID |
+|-----------|------|---------------------|----------------|
+| **AI 플레이리스트** | 사용자의 창의적인 아이디어를 기반으로 플레이리스트를 생성하는 AI 기반 기능. | 개인화된 음악 발견 및 손쉬운 플레이리스트 큐레이션. | 13 |
+| **DJ** | AI가 사용자의 청취 습관에 맞춰 음악을 선별하고 해설을 제공하는 기능. | 개인화된 라디오 경험 및 새로운 음악 발견. | 12 |
+| **데이리스트 (Daylist)** | 시간대에 따라 변하는 사용자의 기분과 취향에 맞는 맞춤형 플레이리스트를 제공. | 맥락에 맞는 음악 추천 및 다양한 청취 경험. | 12 |
+| **대기열(Queue) 업그레이드** | 재생 대기열의 새로운 디자인으로 셔플뷰자료)
 
-premium, ad, free, pay, version, skip : 유료 서비스에 대한 긍정적 평가 또는 개선 기대
-
-
-song, playlist, play, shuffle, add, artist : 음악 기능의 유용성과 즐거움
-
-listen, like, love, hear, experience : 감성적 만족과 애정 표현
-
-
-good, best, great, excellent, awesome, quality : 전반적인 품질과 서비스에 대한 긍정 평가
-
-use, easy, update, feature, platform : 사용 편의성과 기능적 장점
-
-
-**현재 개선된 부분**
-
-
-
-
+- [Spotify Q1'25 Preview: Resilient Business Model Amid Tariff and Economic Turmoil - Inderes](https://inderes.dk/en/analyst-comments/spotify-q125-preview-resilient-business-model-amid-tariff-and-economic-turmoil)
+- [Q2 2024 Earnings Call Prepared Remarks (PDF)](https://s29.q4cdn.com/175625835/files/doc_financials/2024/q2/Q2-24-Earnings-Call-Prepared-Remarks.pdf)
+- [Culture Next 2024: The Major Gen Z Trends That Are Shaping Audio Streaming - Spotify Newsroom](https://newsroom.spotify.com/2024-11-04/culture-ne)
+- [Experience a New Dimension of Music Discovery With More Controls and Enhanced Tools - Spotify Newsroom](https://newsroom.spotify.com/2025-05-07/experience-a-new-dimension-of-music-discovery-with-more-controls-and-enhanced-tools)
+- [Spotify Admits It Made Mistakes With Your Wrapped 2024 – Here's What Could Change This Year | TechRadar](https://techradar.com/audio/spotify/spotify)
 
 ## 6. 마무리
 
-이번 프로젝트를 통해 사용자 리뷰 데이터를 기반으로 실제 사용자 경험을 통계적으로 분석할 수 있었고,  MobileBERT와 같은 경량화된 모델을 활용해도 충분히 높은 성능을 낼 수 있다는 점에서, 모델 선택과 전처리, 라벨링의 중요성을 체감한다. 
+이번 프로젝트를 통해 사용자 리뷰 데이터를 기반으로 실제 사용자 경험을 통계적으로 분석할 수 있었고,  MobileBERT와 같은 경량화된 모델을 활용해도 충분히 높은 성능을 낼 수 있다는 점에서, 모델 선택과 전처리, 라벨링의 중요성을 체감하였습니다. 
 
-단순히 모델의 정확도를 높이는 것보다, 어떤 요소들이 사용자 불만으로 이어지고 있는지를 토픽 모델링으로 분석하면서 데이터 기반 의사결정의 중요성을 다시 한번 느낀다.
+2018-2019년의 부정적인 서비스 기간은 주로 제품 관리의 내부적인 실수(열악한 UI, 강제적인 팟캐스트 통합), 논란이 된 마케팅(드레이크 인수), 그리고 윤리적 문제(가짜 아티스트, 페이-포-플레이)에 기인했으며, 이는 핵심 서비스 안정성 문제와 경쟁 환경에서의 ARPU 감소로 더욱 심화되었습니다. 이러한 문제들은 사용자 신뢰와 만족도에 직접적인 영향을 미쳤습니다.
 
-실제로 실제 사례와 근거를 토대로 조사를 진행하다보니 유의미한 인사이트가 도출이 되어 의미가 있는 프로젝트로 마무리 할 수 있음에 성취감을 느꼇다. 
-
+대조적으로, 2024년의 긍정적인 서비스 기간은 스포티파이가 보다 성숙한 비즈니스 모델로 성공적으로 전환했음을 반영합니다. 여기에는 효과적인 수익화 전략(낮은 이탈률과 함께 가격 인상), AI 기반 개인화에 대한 상당한 투자, 그리고 다양한 오디오 콘텐츠(팟캐스트, 오디오북)로의 전략적 확장이 포함됩니다. 회사는 운영 효율성 개선과 시장 탄력성을 입증했습니다.
 
 
 
