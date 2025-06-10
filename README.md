@@ -13,7 +13,7 @@
 
 이유는 구글플레이어의 최근 평점 표시 방식은 최근의 사용자 피드백을 좀 더 강력하게 반영하는 가중 평균 방식으로 계산이 되기 때문에 경험이 개선되거나 긍정적인 업데이트가 있는 경우 평점이 크게 달라질 수 있기때문에 우리가 인사이트 도출을 통한 피드백은 이미 적용이 되있을 확율이 매우 높다. 
 
-이번 프로젝트는 스포티파이 리뷰 데이터를 이용하여 MobileBERT 모델 기반의 감정분석 모델 구축, 리뷰의 긍정과 부정 예측 , 토픽 모델링의 결과를 도출하고, 우리가 도출한 개선점이 개선 되어있는지 확인까지 할 예정이다.  [1][참고자료](https://bytebridge.medium.com/spotifys-transformative-impact-on-the-music-industry-and-its-innovative-revenue-model-b11d6b5110fd) [분석](데이터불일치)(https://github.com/user-attachments/files/20676258/_.pdf)
+이번 프로젝트는 스포티파이 리뷰 데이터를 이용하여 MobileBERT 모델 기반의 감정분석 모델 구축, 리뷰의 긍정과 부정 예측 , 토픽 모델링의 결과를 도출하고, 우리가 도출한 개선점이 개선 되어있는지 확인까지 할 예정이다.  [1][참고자료](https://bytebridge.medium.com/spotifys-transformative-impact-on-the-music-industry-and-its-innovative-revenue-model-b11d6b5110fd) [2][데이터불일치](데이터불일치)(https://github.com/user-attachments/files/20676258/_.pdf)
 
 
 
