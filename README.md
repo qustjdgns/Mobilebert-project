@@ -67,7 +67,8 @@
 - 학습 데이터 14,434건을 (학습 : 검증 = 8 : 2)로 나누어 검증 데이터를 추출
 - 긍/부정 비율: 부정 67%, 긍정 33%  
   
-  ![원그래프](https://github.com/user-attachments/assets/6b817043-11a7-4643-b333-a62c10519908)
+  ![image](https://github.com/user-attachments/assets/1cfdd44f-d716-4b6c-9883-ee66a071acc3)
+
 
 
 ## 4. MobileBERT Finetuning 결과
