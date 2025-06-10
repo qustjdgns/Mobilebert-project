@@ -152,7 +152,12 @@ good, best, great, excellent, awesome, quality : 전반적인 품질과 서비�
 
 use, easy, update, feature, platform : 사용 편의성과 기능적 장점
 
-[요금제 무료 선언](요금제 무료)(https://www.dbpia.co.kr/pdf/pdfAiChatView.do?nodeId=NODE11962436)
+
+**현재 개선된 부분**
+
+[요금제 무료 선언](요금제무료)(https://www.dbpia.co.kr/pdf/pdfAiChatView.do?nodeId=NODE11962436)
+[서비스 구매 편의성 제공](편의성)https://newsroom.spotify.com/2025-05-01/following-landmark-court-ruling-spotify-submits-new-app-update-to-apple-to-benefit-u-s-consumers/
+
 
 ## 6. 마무리
 
