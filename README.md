@@ -130,6 +130,7 @@ song, play, playlist, shuffle: 음악 재생 기능 문제
 screen, phone, time: 디바이스 및 사용 경험 문제
 
 <br>
+
 **(2024년 1분기 ~ 2024년 2분기)**
 
 <br>
