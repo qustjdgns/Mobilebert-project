@@ -173,7 +173,7 @@
 
 [논문](논문)(https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11229727)
 
-[스포티파이 리뷰 데이터 불일치 분석](스포티파이 리뷰 데이터 불일치 분석)[스포티파이 리뷰 데이터 불일치 분석_.pdf](https://github.com/user-attachments/files/20676258/_.pdf)
+[분석](스포티파이 리뷰 데이터 불일치 분석)(스포티파이 리뷰 데이터 불일치 분석_.pdf](https://github.com/user-attachments/files/20676258/_.pdf)
 
 
 
