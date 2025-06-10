@@ -79,6 +79,7 @@
 
 ![Figure_1222222222](https://github.com/user-attachments/assets/b9850a03-f763-46cd-8502-29a01ea71bb2)
 
+- 검증 정확도 또한 0.9이상의 높은 정확도를 보이고 있음
 
 **문장 분류 예측 결과**
   
