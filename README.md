@@ -69,7 +69,8 @@
 
 **training loss & Train Accuracy 그래프**
 
-![Figure_11111111](https://github.com/user-attachments/assets/3efcd6a7-aabb-4352-a2bc-7fe2cf2cf5ac)
+![fhtm로스이제안하나다](https://github.com/user-attachments/assets/103ac869-e5df-4916-a936-b108e4be5cbc)
+
 
 - 학습 손실율을 확인 하면 적당한 수준까지 감소한 사실을 보아, 모델이 정상 작동함을 확인
 - epoch 1 Train loss: 811.0684, epoch 2 Train loss: 0.4028, epoch 3 Train loss: 1.3494, epoch 4 Train loss: 0.1855
@@ -77,7 +78,8 @@
 
 **training accuracy & validation accuracy (x축 epoch)**
 
-![Figure_1222222222](https://github.com/user-attachments/assets/b9850a03-f763-46cd-8502-29a01ea71bb2)
+![Figure_9999](https://github.com/user-attachments/assets/082c2587-4bb1-49a2-8f71-63f3ac5721e0)
+
 
 - 검증 정확도 또한 0.9이상의 높은 정확도를 보이고 있음
 
