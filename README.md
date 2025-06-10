@@ -72,7 +72,7 @@
 ![Figure_11111111](https://github.com/user-attachments/assets/3efcd6a7-aabb-4352-a2bc-7fe2cf2cf5ac)
 
 - 학습 손실율을 확인 하면 적당한 수준까지 감소한 사실을 보아, 모델이 정상 작동함을 확인
-- epoch 1 Train loss: 811.0684, epoch 2 Train loss: 0.4028, epoch 3 Train loss: 1.3494, epoch 4 Train loss: 0.1855,
+- epoch 1 Train loss: 811.0684, epoch 2 Train loss: 0.4028, epoch 3 Train loss: 1.3494, epoch 4 Train loss: 0.1855
 - 학습 정확도 또한 하락 없이 상승 추세를 유지하고 있음
 
 **training accuracy & validation accuracy (x축 epoch)**
