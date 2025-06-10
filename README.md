@@ -173,7 +173,7 @@
 
 [논문](논문)(https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11229727)
 
-[분석](https://github.com/user-attachments/files/20676258/_.pdf)
+[분석](데이터불일치)(https://github.com/user-attachments/files/20676258/_.pdf)
 
 
 
