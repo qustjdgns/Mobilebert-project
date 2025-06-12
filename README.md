@@ -154,8 +154,19 @@
 
 **부정이 급증한 이유 (2018년 3분기 ~ 2019년 2분기)**
 
+| **문제/논란**             | **설명**                                                                 | **사용자에게 미친 영향**                                                                 |
+|----------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| **서비스 중단 (2019.4)**   | 글로벌 대규모 장애로 수만 명 사용자 영향.                               | 음악 스트리밍 불가, 불만 폭주, 사용자 신뢰 저하, 플랫폼 이탈 고려.                      |
+| **과도한 프로모션 문제**   | 드레이크 앨범으로 관련 없는 콘텐츠까지 도배 ("스콜피온 SZN" 사태).        | 프리미엄 사용자 불만, 광고 없는 경험 침해, 환불 요청 및 브랜드 신뢰 하락.              |
+| **음악 큐레이션 논란**     | 가짜 아티스트 및 페이-포-플레이 의혹 등 큐레이션 공정성에 대한 논란.     | 음악 발견의 공정성 훼손, 아티스트 보상 문제, 사용자 신뢰 저하.                         |
+| **앱 업데이트 불만 (2018)**| 기능 삭제 및 UI 변경으로 사용자 혼란 초래.                               | 소셜 기능 상실, UX 저하, "껍데기 같다"는 평가, 이탈 고려.                             |
+| **팟캐스트 통합 관련 불만**| 음악 피드에 팟캐스트 강제 통합, 관리 기능 축소.                          | 청취 흐름 방해, 앱 복잡성 증가, 팟캐스트 이용 불편.                                    |
+| **개인 정보 보호 우려**    | 데이터 수집 범위, 제3자 공유, 추적 방식에 대한 지속적 의심.              | 개인정보 침해 불안, 플랫폼 신뢰도 하락.                                                  |
 
-
+- [Criticism of Spotify - Wikipedia](https://en.wikipedia.org/wiki/Criticism_of_Spotify)
+- [Drake promotion on Spotify goes too far, users demand refunds - Karen Civil](https://karencivil.com/2018/07/03/spotify-subscribers-are-demanding-refunds-over-too-much-drake-promotion)
+- [Users Demand Refund From Spotify After Heavy-Handed Drake Promotion - Okayplayer](https://okayplayer.com/music/drake-scorpion-spotify-takeover.html)
+- [Controversy over fake artists on Spotify - Wikipedia](https://en.wikipedia.org/wiki/Controversy_over_fake_artists_on_Spotify)
 
 
 
