@@ -1,5 +1,14 @@
 #  Spotify 리뷰 감성 분석 프로젝트 (MobileBERT 기반)
 
+
+![1993900290_20201218103944_2915614589](https://github.com/user-attachments/assets/9a90f18d-0aee-4d10-b052-94df2b27d9cc)
+
+## 사용 기술
+<img src="https://img.shields.io/badge/pycharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white" />
+<img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
+<img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />
+
+
 ## 1. 개요
 사용자리뷰는 가장 전형적이고 객관적인 통계데이터 중 하나로, 사용자 만족도나 개선점에 가장 영향력있는 통계데이터 중 하나이다.
 
@@ -158,7 +167,7 @@
 
 **긍정적인 리뷰가 급증한 이유**
 
-| 핵심 기능                       | 요약 설명                                 |
+| 핵심 기능                       | 급증한 이유유                                 |
 |------------------------------|----------------------------------------|
 | AI 플레이리스트                | 사용자 맞춤 음악 발견 및 큐레이션 강화       |
 | DJ                           | 청취 습관 기반 개인화 라디오 및 음악 추천   |
@@ -180,14 +189,6 @@
 2018-2019년의 부정적인 서비스 기간은 주로 제품 관리의 내부적인 실수(열악한 UI, 강제적인 팟캐스트 통합), 논란이 된 마케팅(드레이크 인수), 그리고 윤리적 문제(가짜 아티스트, 페이-포-플레이)에 기인했으며, 이는 핵심 서비스 안정성 문제와 경쟁 환경에서의 ARPU 감소로 더욱 심화되었습니다. 이러한 문제들은 사용자 신뢰와 만족도에 직접적인 영향을 미쳤습니다.
 
 대조적으로, 2024년의 긍정적인 서비스 기간은 스포티파이가 보다 성숙한 비즈니스 모델로 성공적으로 전환했음을 반영합니다. 여기에는 효과적인 수익화 전략(낮은 이탈률과 함께 가격 인상), AI 기반 개인화에 대한 상당한 투자, 그리고 다양한 오디오 콘텐츠(팟캐스트, 오디오북)로의 전략적 확장이 포함됩니다. 
-
-
-
-## 사용 기술
-<img src="https://img.shields.io/badge/pycharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white" />
-<img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
-<img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />
-
 
 
 
