@@ -3,7 +3,7 @@
 
 ![1993900290_20201218103944_2915614589](https://github.com/user-attachments/assets/9a90f18d-0aee-4d10-b052-94df2b27d9cc)
 
-## 사용 기술
+
 <img src="https://img.shields.io/badge/pycharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white" />
 <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
 <img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />
