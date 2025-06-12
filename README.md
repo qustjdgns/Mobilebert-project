@@ -133,14 +133,23 @@
 
 ## 토픽 모델링
 
-## (2018년 3분기 ~ 2019년 2분기)
 
 <br>
 
-![image](https://github.com/user-attachments/assets/3e81aa90-2b48-4a8e-95b3-30792751008e)
+### 긍정 / 부정 키워드
+
+| **카테고리**     | **긍정 단어**                     | **긍정 의미**                                      | **부정 단어**                | **부정 의미**                                      |
+|------------------|----------------------------------|---------------------------------------------------|------------------------------|---------------------------------------------------|
+| **앱 전반 평가** | app, Spotify                     | 앱 자체, 브랜드에 대한 만족                         | problem, back, stop          | 앱 오류, 멈춤, 작동 불량 문제                      |
+| **음악 경험**    | music, song, playlist, listen    | 음악 콘텐츠 자체에 대한 만족, 감상 경험              | shuffle, play (문맥상 오류)  | 셔플/재생 기능의 불만 또는 오류                   |
+| **사용자 감정**  | good, great, love                | 긍정적 사용자 감정 표현                            | recently, year               | 최근 변화에 대한 불만, 과거와 비교한 부정 감정     |
+| **기능 편의성**  | add, find, play                  | 콘텐츠 추가, 검색, 재생 기능의 편리함               | screen, update, version      | UI/UX 문제, 업데이트 후 호환성 문제                |
+| **요금제 관련**  | free, premium                    | 무료 이용 혜택, 프리미엄 기능 만족                  | premium, paying              | 유료화 불만, 요금제 불투명성                      |
+| **디바이스 관련**|                                  |                                                    | phone                        | 기기 호환 문제 또는 작동 불량                     |
 
 
-**부정적인 리뷰가 급증한 이유**
+
+## 부정적인 리뷰가 급증한 이유
 
 | 문제/논란             | 설명                                                      | 사용자에게 미친 영향                                |
 |--------------------|---------------------------------------------------------|-------------------------------------------------|
@@ -152,22 +161,15 @@
 | 팟캐스트 통합 불만        | 팟캐스트가 음악 피드에 강제 통합되고 관리 기능 축소                       | 음악 청취 방해, 앱 복잡화 불만, 팟캐스트 관리 어려움          |
 
 
-
-
 - [Criticism of Spotify - Wikipedia](https://en.wikipedia.org/wiki/Criticism_of_Spotify)
 - [Drake promotion on Spotify goes too far, users demand refunds - Karen Civil](https://karencivil.com/2018/07/03/spotify-subscribers-are-demanding-refunds-over-too-much-drake-promotion)
 - [Users Demand Refund From Spotify After Heavy-Handed Drake Promotion - Okayplayer](https://okayplayer.com/music/drake-scorpion-spotify-takeover.html)
 - [Controversy over fake artists on Spotify - Wikipedia](https://en.wikipedia.org/wiki/Controversy_over_fake_artists_on_Spotify)
 
-<br>
-
-## (2024년 1분기 ~ 2024년 2분기)
 
 <br>
 
-![image](https://github.com/user-attachments/assets/3c3ca461-92f1-4d64-96b6-12d7f68ecbf6)
-
-**긍정적인 리뷰가 급증한 이유**
+## 긍정적인 리뷰가 급증한 이유
 
 | 핵심 기능                       | 급증한 이유                                 |
 |------------------------------|----------------------------------------|
