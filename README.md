@@ -24,6 +24,7 @@
 - **사용 데이터**: Spotify 앱 리뷰 
 - **총 데이터 수**: 83,829건
 <br>
+
 [2][원본데이터](https://www.kaggle.com/datasets/ashishkumarak/spotify-reviews-playstore-daily-update?resource=download)
 
 **데이터 컬럼 요약 설명**
