@@ -103,6 +103,7 @@
   <br>
 ![Figure_18888888](https://github.com/user-attachments/assets/d0d2430b-2a3b-4288-89f7-40ff58e6e86d)
 
+- 더 정확한 인사이트를 도출 하기위해 분기별 평점 비율 추이를 조사하여 확인
 
 
 
