@@ -27,6 +27,8 @@
 
 [2][원본데이터](https://www.kaggle.com/datasets/ashishkumarak/spotify-reviews-playstore-daily-update?resource=download)
 
+<br>
+
 **데이터 컬럼 요약 설명**
 
 | 컬럼명                   | 설명 요약 |
